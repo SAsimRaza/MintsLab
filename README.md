@@ -1,3 +1,5 @@
+# MintsLab - Social Media Platform
+
 # Solidity Template
 
 My favorite setup for writing Solidity smart contracts.
